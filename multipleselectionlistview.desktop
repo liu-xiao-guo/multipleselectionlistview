@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=multipleselectionlistview
+Exec=qmlscene $@ Main.qml
+Icon=multipleselectionlistview.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
